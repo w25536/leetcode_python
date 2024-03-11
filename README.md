@@ -1,4 +1,4 @@
-# leetcode_python
+# neetcode_python
 
 
 ### Arrays & Hashing
