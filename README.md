@@ -185,7 +185,7 @@ def dfs(root):
 ### Binary tree: DFS (iterative)
 
 
-```pyhon
+```python
 
 def dfs(root):
     stack = [root]
