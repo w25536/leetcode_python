@@ -1,19 +1,15 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        
-        
-        count = {}
+       
+        num_dicts = collections.defaultdict(int)
         
         for n in nums:
-            count[n] = 1 + count.get(n, 0)
-        
-        for n, c in count.items():
-            if c >=2:
+            if num_dicts[n] > 0 :
                 return True
-        
+            num_dicts[n] += 1
+            
         return False
             
-                
-            
-            
+        
+        
         
