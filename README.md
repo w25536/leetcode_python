@@ -4,6 +4,8 @@
 
 https://neetcode.io/courses/dsa-for-beginners/32
 
+https://quickref.me/python.html
+
 
 ### Two pointers: one input, opposite ends
 
@@ -530,3 +532,65 @@ while heap:
 
 ```
 
+
+
+
+### 백준 코테 단골 유형 실버 문제집
+
+
+**문제 바로가기**
+
+1. 문자열
+
+-  [1316번 - 그룹 단어 체커](https://www.acmicpc.net/problem/1316)
+
+2. 기본수학
+
+- [1978번 - 소수 찾기](https://www.acmicpc.net/problem/1978)
+
+3. 재귀
+
+-  [10870번 - 피보나치 수 5](https://www.acmicpc.net/problem/10870)
+
+4. 브루트포스
+
+- [2798번 - 블랙잭](https://www.acmicpc.net/problem/2798)
+- [7568번 - 덩치](https://www.acmicpc.net/problem/7568)
+
+5. 정렬
+
+-  [18870번 - 좌표 압축](https://www.acmicpc.net/problem/18870)
+
+6. 백트래킹
+
+-  [15649번 - N과 M (1)](https://www.acmicpc.net/problem/15649)
+
+7. 동적계획법 (DP)
+
+-  [11053번 - 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
+
+8. 그리디
+
+- [11047번 - 동전 0](https://www.acmicpc.net/problem/11047)
+
+9. 큐/덱
+
+- [2164번 - 카드 2](https://www.acmicpc.net/problem/2164)
+
+10. 분할정복
+
+-  [2630번 - 색종이 만들기](https://www.acmicpc.net/problem/2630)
+
+11. 이분탐색
+
+- [1920번 - 수 찾기](https://www.acmicpc.net/problem/1920)
+
+12. DFS / BFS
+
+- [1260번 - DFS와 BFS](https://www.acmicpc.net/problem/1260)
+- [2606번 - 바이러스](https://www.acmicpc.net/problem/2606)
+
+13. 트리
+
+-  [11725번 - 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
+- [1991번 - 트리 순회](https://www.acmicpc.net/problem/1991)
